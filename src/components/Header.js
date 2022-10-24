@@ -7,7 +7,7 @@ const Header = () => {
     <div>
       <header className="App-header">
         <div className="App-header__qrcode-container">
-          <img src={imageCon} alt="" className="image" />
+          <img src={imageCon} alt="qr code" className="image" />
           <div className="para-container">
             <h1> Improve your front-end skills by building projects</h1>
             <p>

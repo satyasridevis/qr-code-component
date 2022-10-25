@@ -1,8 +1,8 @@
 import React from "react";
-import "./Header.scss";
+import "./Main.scss";
 import imageCon from "../assets/images/image-qr-code.png";
 
-const Header = () => {
+const Main = () => {
   return (
     <div>
       <header className="App-header">
@@ -21,4 +21,4 @@ const Header = () => {
   );
 };
 
-export default Header;
+export default Main;
